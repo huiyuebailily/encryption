@@ -1,2 +1,2 @@
 # encryption
-Homomorphic Encryption Presentation
+Presentation - Homomorphic Encryption
